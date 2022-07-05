@@ -1,0 +1,7 @@
+{
+  "name": "tailwind-cli-playground",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx tailwindcss -i ./assets/main.pcss -o ./dist/style.css --watch"
+  }
+}
